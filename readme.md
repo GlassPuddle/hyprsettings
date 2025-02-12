@@ -4,8 +4,15 @@
 
 <img src='hyprgui.png' width='200' height='200'>
 
+**I have forked this repo in order to preserve the package, as it's been very helpful, still usable and at risk of being lost to the void**
+
 An unofficial GUI for configuring Hyprland, built with GTK4 and Rust. 🚀🦀<br>
 Comes with a custom [hyprparser](https://github.com/nnyyxxxx/hyprparser) for Hyprland's configuration file. (Rust btw) 🦀
+
+BUILD USING CARGO, AND ADD TO ROFI VIA 'MAIN MENU' FLATPAK
+- git clone 'https://github.com/GlassPuddle/hyprgui-preserved'
+- cd ~/hyprgui-preserved
+- cargo build 
 
 ## Preview
 ![Preview](.github/preview.png)
