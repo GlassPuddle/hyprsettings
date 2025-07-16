@@ -37,7 +37,7 @@ cargo build
 1. Install Rust (preferably `rustup`) through your distro's package or [the official script](https://www.rust-lang.org/tools/install)
 2. Install `git`, `pango` and `gtk4`
 3. Clone this repository:
-`git clone https://github.com/GlassPuddle/hyprsettings/edit/main/readme.md && cd hyprgui`
+`git clone https://github.com/GlassPuddle/hyprsettings && cd hyprsettings`
 4. Compile the app with `cargo build --release` or run it directly with `cargo run --release`
 
 
