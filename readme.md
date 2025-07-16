@@ -10,9 +10,9 @@ An unofficial GUI for configuring Hyprland, built with GTK4 and Rust. 🚀🦀<b
 Comes with a custom [hyprparser](https://github.com/nnyyxxxx/hyprparser) for Hyprland's configuration file. (Rust btw) 🦀
 
 BUILD USING CARGO, AND ADD TO ROFI VIA 'MAIN MENU' FLATPAK
-- git clone 'https://github.com/GlassPuddle/hyprgui-preserved'
-- cd ~/hyprgui-preserved
-- cargo build 
+git clone //github.com/GlassPuddle/hyprsettings
+cd hyprsettings/
+cargo build
 
 ## Preview
 ![Preview](.github/preview.png)
@@ -21,40 +21,24 @@ BUILD USING CARGO, AND ADD TO ROFI VIA 'MAIN MENU' FLATPAK
 
 ## Installation
 
-### GitHub Releases
-See HyprGUI's [releases page](https://github.com/nnyyxxxx/hyprgui/releases) for downloadable binaries.
 
 ### Arch Linux
-There are 2 different [AUR](https://aur.archlinux.org) packages available:
-
-- [hyprgui](https://aur.archlinux.org/packages/hyprgui) - Latest release built from source
-- [hyprgui-bin](https://aur.archlinux.org/packages/hyprgui-bin) - Latest release in binary form
 
 Install the preferred package with:
 ```bash
-git clone https://aur.archlinux.org/<package>.git
-cd <package>
-makepkg -si
+git clone //github.com/GlassPuddle/hyprsettings
+cd hyprsettings/
+cargo build
 ```
 
-Or, if you're using an [AUR Helper](https://wiki.archlinux.org/title/AUR_helpers), it's even simpler (using [paru](https://github.com/Morganamilo/paru) as an example):
-```bash
-paru -S <package>
-```
 
 ## Building from source
 1. Install Rust (preferably `rustup`) through your distro's package or [the official script](https://www.rust-lang.org/tools/install)
 2. Install `git`, `pango` and `gtk4`
 3. Clone this repository:
-`git clone https://github.com/nnyyxxxx/hyprgui && cd hyprgui`
+`git clone https://github.com/GlassPuddle/hyprsettings/edit/main/readme.md && cd hyprgui`
 4. Compile the app with `cargo build --release` or run it directly with `cargo run --release`
 
-## TODO:
-- [x] Implement GUI
-- [x] Implement parser
-- [x] Improve the readme
-- [ ] Improve parser
-- [ ] Improve GUI
 
 ## Credits:
 - [Nyx](https://github.com/nnyyxxxx) - Implementing the parser, rest of the GUI, and maintaining the project
