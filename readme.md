@@ -1,7 +1,7 @@
-<div align='center'>
+#<div align='center'>
 
-<h2>HyprSettings <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/0c311a62-679b-472b-980e-fe41e722c1ae" />
-</h2>
+#<h2>HyprSettings <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/0c311a62-679b-472b-980e-fe41e722c1ae" />
+#</h2>
 
 <img src='hyprsettingsicon.png' width='200' height='200'>
 
