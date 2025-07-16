@@ -1,8 +1,9 @@
 <div align='center'>
 
-<h2>HyprGUI <img src='https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png'width='18' height='18'></h2>
+<h2>HyprSettings <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/0c311a62-679b-472b-980e-fe41e722c1ae" />
+</h2>
 
-<img src='hyprgui.png' width='200' height='200'>
+<img src='hyprsettingsicon.png' width='200' height='200'>
 
 **I have forked this repo in order to preserve the package, as it's been very helpful, still usable and at risk of being lost to the void**
 
