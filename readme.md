@@ -8,7 +8,7 @@
  
 </div>
 
-</h3>This codebase was originally named 'Hy0rGUI' written by [Nyx](https://github.com/nnyyxxxx). as part of the HyprUtils Suite, which has since been deleted. I recently discovered that with a few tiny tweaks, it's still fully compatible with v5.00. 
+</h3>This codebase was originally named 'HyprGUI' written by [Nyx](https://github.com/nnyyxxxx). as part of the HyprUtils Suite, which has since been deleted. I recently discovered that with a few tiny tweaks, it's still fully compatible with v5.00. 
 HyprGUI was a huge help when I first started out in Hyprland, and I hope HyprSettings can inspire and assist newcomers to the world of TWMs 🫶
 
 </h1>Preview
