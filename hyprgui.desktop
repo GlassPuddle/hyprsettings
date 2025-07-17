@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=HyprGUI
+Name=HyprSettings
 Comment=GUI for configuring Hyprland, written in blazingly fast Rust!
-Exec=/usr/bin/hyprgui
-Icon=hyprgui
+Exec=/usr/bin/hyprsettings
+Icon=hyprsettingsicon
 Type=Application
 Terminal=false
 Categories=Utility;
