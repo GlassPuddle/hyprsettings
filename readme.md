@@ -2,7 +2,7 @@
 
 <h2>HyprSettings
 </h2> Finally: Hyprland Configuration,(re)made for GUI-lovers. 
-### Love the eye-candy that comes with Hyprland, but aren't familiar with writing .conf files? (re)Introducing: HyprSettings! a GTK4 frontend for Configuring Hyprland. 
+</h3> Love the eye-candy that comes with Hyprland, but aren't familiar with writing .conf files? (re)Introducing: HyprSettings! a GTK4 frontend for Configuring Hyprland. 
 
 <img src='hyprsettingsicon.png' width='200' height='200'>
  
