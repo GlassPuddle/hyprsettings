@@ -1,30 +1,30 @@
 <div align='center'>
 
-<h2>HyprSettings
-</h2> Finally: Hyprland Configuration,(re)made for GUI-lovers. 
-</h3> Love the eye-candy that comes with Hyprland, but aren't familiar with writing .conf files? (re)Introducing: HyprSettings! a GTK4 frontend for Configuring Hyprland. 
+<h1>HyprSettings
+</h2>Finally: Hyprland Configuration,(re)made for GUI-lovers. 
+</h3>Love the eye-candy that comes with Hyprland, but aren't familiar with writing .conf files? (re)Introducing: HyprSettings! a GTK4 frontend for Configuring Hyprland. 
 
 <img src='hyprsettingsicon.png' width='200' height='200'>
  
 </div>
 
-### This codebase was originally named 'Hy0rGUI' written by [Nyx](https://github.com/nnyyxxxx). as part of the HyprUtils Suite, which has since been deleted. I recently discovered that with a few tiny tweaks, it's still fully compatible with v5.00. 
+</h3>This codebase was originally named 'Hy0rGUI' written by [Nyx](https://github.com/nnyyxxxx). as part of the HyprUtils Suite, which has since been deleted. I recently discovered that with a few tiny tweaks, it's still fully compatible with v5.00. 
 HyprGUI was a huge help when I first started out in Hyprland, and I hope HyprSettings can inspire and assist newcomers to the world of TWMs 🫶
 
-# Preview
+</h1>Preview
 ![Preview](.github/preview.png)
 
 </div>
 
-# Usage
-## Currently working on Hyprland 5.00 (17/07/2025)
+</h1>Usage
+</h2>Currently working on Hyprland 5.00 (17/07/2025)
 HyprSettings works by editing the Hyprland.conf file in your ~/.config/hypr directory. 
 
 
 
-# Installation
-## ⚠️: I run an Arch Linux system, and have not tested this on other Distributions. Arch & Arch Based Distros (CachyOS, EndeavourOS, etc) shouldn't have an issue.
-### If you can help to test it on another Distro, please reach out and I'll credit you!)
+</h1>Installation
+</h2>⚠️: I run an Arch Linux system, and have not tested this on other Distributions. Arch & Arch Based Distros (CachyOS, EndeavourOS, etc) shouldn't have an issue.
+</h2>If you can help to test it on another Distro, please reach out and I'll credit you!)
 
 Install the preferred package with:
 ```bash
@@ -33,7 +33,7 @@ cd hyprsettings/
 cargo build
 ```
 
-## Building from source
+</h2>Building from source
 1. Install Rust (preferably `rustup`) through your distro's package or [the official script](https://www.rust-lang.org/tools/install)
 2. Install `git`, `pango` and `gtk4`
 3. Clone this repository:
