@@ -1,10 +1,10 @@
 [package]
-name = "hyprgui"
-version = "0.1.5"
-authors = ["Nyx <nnyyxxxx@protonmail.com>", "Adam Perkowski <adas1per@protonmail.com>"]
+name = "hyprsettings"
+version = "0.1.0"
+authors = ["Puddle <intfd@proton.me>", "Nyx <nnyyxxxx@protonmail.com>", "Adam Perkowski <adas1per@protonmail.com>"]
 license = "GPL-2.0"
 description = "GUI for configuring Hyprland!"
-repository = "https://github.com/nnyyxxxx/hyprlandgui.git"
+repository = "https://github.com/GlassPuddle/hyprsettings/"
 readme = "readme.md"
 keywords = [
     "gui",
